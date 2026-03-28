@@ -11,7 +11,7 @@
 3. Aktualizace údajů (PUT)
 4. Ověření změny (GET)
 5. Smazání mazlíčka (DELETE)
-Tento scénář simuluje reálné použití API a ověřuje konzistenci dat v průběhu operací.
+# Tento scénář simuluje reálné použití API a ověřuje konzistenci dat v průběhu operací.
 
 ## Testovaný endpoint 
 
