@@ -4,6 +4,15 @@
 
 **Odkaz na Swagger dokumentaci:** [Petstore Swagger](https://petstore.swagger.io/) --- 
 
+## Testovací scénář – životní cyklus mazlíčka
+
+1. Vytvoření mazlíčka (POST)
+2. Ověření vytvoření (GET)
+3. Aktualizace údajů (PUT)
+4. Ověření změny (GET)
+5. Smazání mazlíčka (DELETE)
+Tento scénář simuluje reálné použití API a ověřuje konzistenci dat v průběhu operací.
+
 ## Testovaný endpoint 
 
 ### GET /pet/{petId} - Účel: Získat informace o konkrétním mazlíčkovi podle jeho ID - Test: Kontrola datových typů hlavních atributů v response 
