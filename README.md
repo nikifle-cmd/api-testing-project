@@ -1,6 +1,11 @@
 # api-testing-project # Testovací projekt API – Postman 
-## Popis projektu Tento projekt slouží k testování REST API pomocí Postmanu. Cílem je ověřovat funkčnost endpointů a kontrolovat datové typy v response. Testy jsou zaměřeny na **Petstore API**, což je veřejné testovací API pro mazlíčky. **Odkaz na Swagger dokumentaci:** [Petstore Swagger](https://petstore.swagger.io/) --- 
+
+## Popis projektu Tento projekt slouží k testování REST API pomocí Postmanu. Cílem je ověřovat funkčnost endpointů a kontrolovat datové typy v response. Testy jsou zaměřeny na **Petstore API**, což je veřejné testovací API pro mazlíčky. 
+
+**Odkaz na Swagger dokumentaci:** [Petstore Swagger](https://petstore.swagger.io/) --- 
+
 ## Testovaný endpoint 
+
 ### GET /pet/{petId} - Účel: Získat informace o konkrétním mazlíčkovi podle jeho ID - Test: Kontrola datových typů hlavních atributů v response 
 
 #### Postman Test (příklad)
